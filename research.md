@@ -3,9 +3,8 @@ layout: post-index
 title: Research
 ---
 
-Below you'll find two posts explaining how to create a site just like this and get it hosted
-  for free: 
-
+My research is related to Library and Information Science and it has been focused mostly on Bibliometric projects lately.
+Check my poster on [Openin the Way: Transforming Scholarly Communications at the University of Rochester](http://bit.ly/3pSmsM5).
 <!-- # COMMENT EXPLAINING THIS PAGE -- 
 We're currently using this section of the site to host these tutorials,
   but you might want to use it to showcase and describe your `Research`,
