@@ -5,4 +5,4 @@ excerpt: "About Me..."
 
 ## About me
 
-I am the Scholarly Communication librarian at Ruver Campus Libraries, University of Rochester.
+I am the Scholarly Communication librarian at River Campus Libraries, University of Rochester.
