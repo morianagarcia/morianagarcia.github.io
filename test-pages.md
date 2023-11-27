@@ -2,4 +2,4 @@
 title: Testing pages
 layout: page
 ---
-content test
+Changing the content to test
