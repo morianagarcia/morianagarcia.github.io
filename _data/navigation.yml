@@ -15,7 +15,10 @@
   url: /research/
 
 - title: Testing pages
-  url: /test_pages/
+  url: /testing_pages/
 
 - title: Research test
   url: /research_test/
+
+- title: Test no layout
+  url: /test_no_layout/
